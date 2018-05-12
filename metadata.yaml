@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/552
     wikipedia: http://en.wikipedia.org/wiki/Lysander_Spooner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34187#A-New-Banking-SystemThe-Needful-Capital-for-Rebuilding-the-Burnt-District
 gutenberg_issued: '2010-11-01'
 gutenberg_type: Text
 identifiers:
