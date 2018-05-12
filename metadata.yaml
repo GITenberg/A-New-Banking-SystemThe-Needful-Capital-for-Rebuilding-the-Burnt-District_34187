@@ -1,0 +1,31 @@
+_repo: A-New-Banking-SystemThe-Needful-Capital-for-Rebuilding-the-Burnt-District_34187
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spooner, Lysander
+    birthdate: 1808
+    deathdate: 1887
+    gutenberg_agent_id: '552'
+    url: http://www.gutenberg.org/2009/agents/552
+    wikipedia: http://en.wikipedia.org/wiki/Lysander_Spooner
+description: ''
+gutenberg_issued: '2010-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34187'
+  lccn: '06033344'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Banks and banking -- United States'
+- !lcsh 'Paper money'
+- !lcc 'HG'
+title: 'A New Banking System
+
+  The Needful Capital for Rebuilding the Burnt District'
+url: http://www.gutenberg.org/ebooks/34187
